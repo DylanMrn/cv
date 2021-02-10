@@ -37,7 +37,7 @@ class Users extends Component {
                                     <div className="col-md-10 offset-md-1 row-block" key={user.id}>
                                         <ul id="sortable">
                                             <li>
-                                                <div className="media">
+                                                <div className="">
                                                     <div className="media-left align-self-center">
                                                         <img className="rounded-circle"
                                                              src={user.imageURL}/>
